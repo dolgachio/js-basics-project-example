@@ -26,7 +26,7 @@ export class ProductList {
       <div>
         <h3 class="section-title">
           Top Recommendations For You | 
-          <a href="/checkout.html">Your Cart</a>
+          <a href="checkout.html">Your Cart</a>
         </h3>
         <div class="row homepage-cards">
             ${list}
