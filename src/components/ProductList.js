@@ -1,5 +1,5 @@
 export class ProductList {
-    productsUrl = '/assets/data/products.json';
+    productsUrl = 'assets/data/products.json';
     productsStoreKey = 'cart-products';
 
     constructor(element) {
