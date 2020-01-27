@@ -141,7 +141,7 @@ export class Carousel {
                   <div>
                       <a class="btn" href="#" role="button">
                           View all DEALS
-                          <img src="../../assets/icons/icon-angle-white.svg" class="ml-3" alt=""/>
+                          <img src="assets/icons/icon-angle-white.svg" class="ml-3" alt=""/>
                       </a>
                   </div>
               </div>
